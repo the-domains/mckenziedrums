@@ -4,8 +4,15 @@
         <description><![CDATA[A Story of John]]></description>
         <link>https://thegrid.ai/mckenziedrums/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 20:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 20:19:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mckenziedrums/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Click here]]></title>
+            <description><![CDATA[<article><h1>Click here</h1><p>Click here test</p></article>]]></description>
+            <link>https://thegrid.ai/mckenziedrums/click-here/index.html</link>
+            <guid isPermaLink="false">432df9f8-06e3-4743-b3b3-49bb91c754c1</guid>
+            <pubDate>Wed, 02 Dec 2015 20:19:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[John's light saber form is quite good for a toddler.]]></title>
             <description><![CDATA[<article><h1>John's light saber form is quite good for a toddler.</h1><p>Unfortunately our neighbors son would have left this duel with no hands.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00343e08-bbb0-4b5a-86de-ecf01a032de1.jpg"></article>]]></description>
