@@ -1,6 +1,6 @@
 name: McKenzieDrums
 favicon: null
-layout_spectrum: 0.4689626775216311
+layout_spectrum: 0.98125
 typography_spectrum: 0.1405842825770378
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#090909'
+    - '#396b97'
+    - '#8f501b'
+    - '#f9d5b3'
+    - '#d1ab8a'
   brandStrength: 0.9349112114869058
-  lightness: 0.5766354890074581
+  lightness: 0.6875
   saturation: 0.014059261186048388
-  rhythmicContrast: 0.9575594572816044
+  rhythmicContrast: 1
 purpose: []
