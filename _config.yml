@@ -1,7 +1,7 @@
 name: McKenzieDrums
 favicon: null
 layout_spectrum: 0.98125
-typography_spectrum: 0.1405842825770378
+typography_spectrum: 0.00059
 title: My Grid Site
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#090909'
-    - '#396b97'
-    - '#8f501b'
-    - '#f9d5b3'
-    - '#d1ab8a'
+    - '#2e6f7d'
+    - '#969081'
+    - '#18140c'
+    - '#abc23a'
+    - '#fdfefe'
   brandStrength: 0.1875
   lightness: 0.6875
   saturation: 0.625
