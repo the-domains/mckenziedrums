@@ -2,6 +2,7 @@ name: McKenzieDrums
 favicon: null
 layout_spectrum: 0.98125
 typography_spectrum: 0.1405842825770378
+title: My Grid Site
 cta:
   domain: null
   bucket: null
