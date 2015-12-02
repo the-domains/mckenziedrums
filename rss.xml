@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A Story of John]]></title>
         <description><![CDATA[A Story of John]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mckenziedrums/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 19:59:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 20:00:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mckenziedrums/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[John's light saber form is quite good for a toddler.]]></title>
+            <description><![CDATA[<article><h1>John's light saber form is quite good for a toddler.</h1><p>Unfortunately our neighbors son would have left this duel with no hands.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00343e08-bbb0-4b5a-86de-ecf01a032de1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mckenziedrums/johns-light-saber-form-is-quite-good-for-a-toddler/index.html</link>
+            <guid isPermaLink="false">1404113e-e007-405f-9b8f-f6f7140340f6</guid>
+            <pubDate>Wed, 02 Dec 2015 19:59:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[John likes to drive tractors.]]></title>
             <description><![CDATA[<article><h1>John likes to drive tractors.</h1><p>Here is he driving around Hall Family Farms before heading out to pick out the perfect pumpkin.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/926ea0c3-3d9d-48e9-8720-06c35c9dc535.jpg"></article>]]></description>
-            <link>undefinedjohn-likes-to-drive-tractors/index.html</link>
+            <link>https://thegrid.ai/mckenziedrums/john-likes-to-drive-tractors/index.html</link>
             <guid isPermaLink="false">37a7cd31-ba5f-4faa-9787-9c2a06704e1f</guid>
             <pubDate>Wed, 02 Dec 2015 19:59:40 GMT</pubDate>
         </item>
