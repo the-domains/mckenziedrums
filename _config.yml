@@ -1,6 +1,6 @@
 name: McKenzieDrums
 favicon: null
-layout_spectrum: 0.04354
+layout_spectrum: 0.98736
 typography_spectrum: 0.27618
 title: A Story of John
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2e6f7d'
-    - '#969081'
-    - '#18140c'
-    - '#abc23a'
-    - '#fdfefe'
-  brandStrength: 0
-  lightness: 0.6875
+    - '#f1f4f9'
+    - '#94c8f1'
+    - '#3e3634'
+    - '#be6c63'
+    - '#e6b098'
+  brandStrength: 1
+  lightness: 0.625
   saturation: 0.625
   rhythmicContrast: 0.25
 purpose: []
